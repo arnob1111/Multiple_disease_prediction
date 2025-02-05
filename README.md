@@ -1,8 +1,5 @@
 # multiple-disease-prediction-streamlit-app
 This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
-
 app.py is the streamlit app code.
-run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
+![image](https://github.com/user-attachments/assets/bd68533b-8d8e-4df8-b6e3-ed60588bd15f)
 
-You may need to install additional libraries for running the jupyter notebooks.
-![image](https://github.com/user-attachments/assets/0fd55540-ef32-4cc2-baaa-0b680bd350fa)
